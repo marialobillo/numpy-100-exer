@@ -9,3 +9,4 @@ This is a collection of numpy exercises from numpy mailing list, stack overflow,
 
 This work is licensed under the MIT license.  
 [![DOI](https://zenodo.org/badge/10173/rougier/numpy-100.svg)](https://zenodo.org/badge/latestdoi/10173/rougier/numpy-100)
+# numpy-100-exer
